@@ -40,8 +40,8 @@ A simple and responsive **YouTube Clone** built with React, utilizing the YouTub
 
 ## 📸 Screenshots
 
-![Home Page](./screenshots/homepage.png)
-![Video Page](./screenshots/video-page.png)
+![Home Page](screenshots/homepage.png)
+![Video Page](screenshots/video-page.png)
 
 ## 💡 Future Enhancements
 
