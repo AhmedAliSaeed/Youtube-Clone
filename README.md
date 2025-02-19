@@ -43,11 +43,6 @@ A simple and responsive **YouTube Clone** built with React, utilizing the YouTub
 ![Home Page](screenshots/homepage.png)
 ![Video Page](screenshots/video-page.png)
 
-## 💡 Future Enhancements
-
-- 🌟 Dark mode support
-- 🗣️ Live chat functionality
-- 🎬 Video playback enhancements
 
 ## 🤝 Contributing
 
